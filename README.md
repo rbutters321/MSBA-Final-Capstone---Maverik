@@ -1,1 +1,1 @@
-# MSBA-Final-Capstone---Maverik
+# MSBA-Final-Capstone-Maverik
