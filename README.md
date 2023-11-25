@@ -26,7 +26,7 @@ The success of this project will be measured by its capacity to accurately predi
 
 ### Solution to the Business Problem:
 
-My group built a variety of models including linear regression, ARIMA, SARIMA, Exponential Smoothing, XGBoost, Neural Network and Prophet to see if we could produce a model that performs better than the Naive model that Maverik is using. 
+My group built a variety of models including linear regression, ARIMA, SARIMA, Exponential Smoothing, XGBoost, Neural Network and Prophet to see if we could produce a model that performs better than the Naive model that Maverik is using. We settled on the Prophet model as our final model to present to Maverik, as it resulted in the lowest error metrics. In training it performed up to 26% better than a general Naive model and up to 17% better when testing for certain stores. It was also able to predict target variables as close to 12% of the actual sales figures. The RMSE values it produced when compared to Maverik's model was significantly lower. 
 
 ### The Business Value of the Solution:
 
@@ -38,8 +38,8 @@ I built the linear models to see if any of the variables in the dataset were sig
 
 ### Difficulties That My Group Encountered Along the Way:
 
-
+My group worked extremely well together and didn't really run into any major problems. One small difficulty we found was trying to figure out how all of our models worked and how to compare them to one another. Since Maverik had specificaly said that RMSE should be used, we focused on that but also added some other error metrics as well. Another issue that popped up was that some of our models took a lot of computing power to run and we ended up adjusting the hyperparameters for them to run on our local machines. Ideally, we would have liked to further refine our model by grouping the dataset into clusters or build a ensemble model that combined our top performing models but we ran out of time. 
 
 ### What I Learned in the Project:
 
-I learned a considerable amount working on this project. 
+I learned a considerable amount working on this project. Time series modeling is something I had briefly touched on during my graduate program. Taking a real life dataset and predicting sales for Maverik while trying to factor in multiple seasonality factors was challenging. The end result of building a model that is an improvement on their existing model was very rewarding. 
