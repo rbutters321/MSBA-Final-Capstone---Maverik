@@ -18,17 +18,15 @@ daily_yoy_ndt.total_inside_sales: Inside sales, everything that isn't made at th
 daily_yoy_ndt.total_food_service: Food service sales, everything that is made at the store
 diesel: Diesel gallons sold
 unleaded: all non-diesel gallons
-The main level of accuracy that we will use to determine the performance of this model is RMSE and R Squared.
+The main level of accuracy that we will use to determine the performance of this model is RMSE. 
 
 Predict the daily sales for each 4 products diesel, unleaded fuel, merchandise, and food service for each store for the following year based on the time series data.
-
-Use a Prophet method to see the daily sales predictions for each of the 4 product categories for a new store.
 
 The success of this project will be measured by its capacity to accurately predict sales metrics and its usability for future stores. Our team will be judging our model based on RSME results. Since our target variables are numeric, we will explore which data features are significant via a linear regression model and then apply those features to a variety of data modeling techniques including a time series model.
 
 ### Solution to the Business Problem:
 
-
+My group built a variety of models including linear regression, ARIMA, SARIMA, Exponential Smoothing, XGBoost, Neural Network and Prophet to see if we could produce a model that performs better than the Naive model that Maverik is using. 
 
 ### The Business Value of the Solution:
 
