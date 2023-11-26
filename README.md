@@ -1,4 +1,4 @@
-# MSBA-Final-Capstone-Maverik - Rachel Butterfield
+# MSBA-Capstone-Maverik - Rachel Butterfield
 
 ### Project Goal: 
 
