@@ -26,7 +26,7 @@ The success of this project will be measured by its capacity to accurately predi
 
 ### Solution to the Business Problem:
 
-My group built a variety of models including linear regression, ARIMA, SARIMA, Exponential Smoothing, XGBoost, Neural Network and Prophet to see if we could produce a model that performs better than the Naive model that Maverik is using. We settled on the Prophet model as our final model to present to Maverik, as it resulted in the lowest error metrics. In training it performed up to 26% better than a general Naive model and up to 17% better when testing for certain stores. It was also able to predict target variables as close to 12% of the actual sales figures. The RMSE values it produced when compared to Maverik's model was significantly lower. 
+My group built a variety of models including Linear Regression, ARIMA, SARIMA, Exponential Smoothing, XGBoost, Neural Network and Prophet to see if we could produce a model that performs better than the Naive model that Maverik is using. We settled on the Prophet model as our final model to present to Maverik, as it resulted in the lowest error metrics. In training it performed up to 26% better than a general Naive model and up to 17% better when testing for certain stores. It was also able to predict target variables as close to 12% of the actual sales figures. The RMSE values it produced when compared to Maverik's model was significantly lower. 
 
 ### The Business Value of the Solution:
 
