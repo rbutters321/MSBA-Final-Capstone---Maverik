@@ -29,7 +29,7 @@ My group built a variety of models including Linear Regression, ARIMA, SARIMA, E
 
 ### The Business Value of the Solution:
 
-My group broke the business value this model would add into four different categories including marketing, finance, operations, and management. This model would provide insight to where and how sales could increase for marketing purposes. It shows which stores have the highest revenue growth opportunities. Operationally, Maverik would be able to anticipate the supplies needed to match the demand for each stores. From a management standpoint, Maverik would be able to anticipate earnings from stores to inform stakeholders. 
+We broke the business value this model would add into four different categories including marketing, finance, operations, and management. This model would provide insight to where and how sales could increase for marketing purposes. It shows which stores have the highest revenue growth opportunities. Operationally, Maverik would be able to anticipate the supplies needed to match the demand for each stores. From a management standpoint, Maverik would be able to anticipate earnings from stores to inform stakeholders. 
 
 ### My Individual Contribution: 
 
