@@ -41,5 +41,5 @@ My group worked extremely well together and didn't really run into any major pro
 
 ### What I Learned in the Project:
 
-I learned a considerable amount working on this project. Time series modeling is something I had briefly touched on during my graduate program. Taking a real-life dataset and predicting sales for Maverik while trying to factor in multiple seasonality factors was challenging.  The result of building a model that is an improvement on their existing model was very rewarding.
+I learned a considerable amount working on this project. Time series modeling is something I had briefly touched on during my graduate program. Taking a real-life dataset and predicting sales for Maverik while trying to factor in multiple seasonality factors was challenging. To get the model to its final result took constant adjustment. The result of building a model that is an improvement on their existing model was very rewarding.
 
